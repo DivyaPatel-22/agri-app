@@ -1,0 +1,154 @@
+{
+    "nav": {
+        "home": "Home",
+        "profile": "Profile",
+        "community": "Community",
+        "leafDetection": "Leaf Detection",
+        "weather": "Weather",
+        "marketPrice": "Market Price",
+        "schemes": "Schemes",
+        "cropAgent": "Crop Agent"
+    },
+    "home": {
+        "welcome": "Welcome to KisanSaathi",
+        "subtitle": "Your AI-powered farming companion",
+        "tagline": "Smart farming for every Indian farmer",
+        "quickActions": "Quick Actions",
+        "todayAlerts": "Today's Alerts",
+        "noAlerts": "No alerts today. Your farm is looking good!",
+        "askVoice": "Ask Voice Assistant",
+        "latestNews": "Latest Tips"
+    },
+    "profile": {
+        "title": "My Profile",
+        "name": "Farmer Name",
+        "phone": "Phone Number",
+        "location": "Location",
+        "landSize": "Land Size (acres)",
+        "soilType": "Soil Type",
+        "preferredCrops": "Preferred Crops",
+        "language": "Language Preference",
+        "save": "Save Profile",
+        "saved": "Profile saved!",
+        "detectLocation": "Detect My Location",
+        "otp": "Send OTP",
+        "otpVerify": "Verify OTP",
+        "memory": "AI Memory",
+        "lastCrop": "Last Crop Grown",
+        "lastQuestion": "Last Question Asked"
+    },
+    "weather": {
+        "title": "Weather Forecast",
+        "today": "Today",
+        "sevenDay": "7-Day Forecast",
+        "temperature": "Temperature",
+        "humidity": "Humidity",
+        "wind": "Wind Speed",
+        "rain": "Rain Chance",
+        "aiAdvice": "AI Farm Advice",
+        "detecting": "Detecting location...",
+        "loading": "Loading weather data..."
+    },
+    "market": {
+        "title": "Market Prices",
+        "selectCrop": "Select Crop",
+        "selectState": "Select State",
+        "currentPrice": "Current Mandi Price",
+        "trend": "7-Day Price Trend",
+        "bestTime": "Best Time to Sell",
+        "alert": "Price Alert",
+        "perQuintal": "₹ / Quintal",
+        "fetch": "Get Prices"
+    },
+    "leaf": {
+        "title": "Leaf Disease Detection",
+        "upload": "Upload Crop Image",
+        "camera": "Use Camera",
+        "analyze": "Analyze Disease",
+        "analyzing": "Analyzing...",
+        "disease": "Disease Detected",
+        "severity": "Severity Level",
+        "treatment": "Treatment Steps",
+        "organic": "Organic Remedy",
+        "chemical": "Chemical Treatment",
+        "preventive": "Preventive Tips",
+        "healthy": "Crop looks healthy!",
+        "noImage": "Please upload or capture an image first"
+    },
+    "schemes": {
+        "title": "Government Schemes",
+        "filterState": "Filter by State",
+        "filterType": "Filter by Farmer Type",
+        "eligibility": "Eligibility",
+        "documents": "Required Documents",
+        "apply": "Apply Now",
+        "aiAsk": "Ask AI about eligibility",
+        "allStates": "All States",
+        "allTypes": "All Types"
+    },
+    "cropAgent": {
+        "title": "Crop Advisor AI",
+        "soilType": "Soil Type",
+        "season": "Season",
+        "water": "Water Availability",
+        "budget": "Budget (₹)",
+        "location": "Location / District",
+        "analyze": "Get Crop Recommendation",
+        "bestCrop": "Recommended Crop",
+        "plan": "Farming Plan",
+        "profit": "Expected Profit",
+        "fertilizer": "Fertilizer Advice",
+        "irrigation": "Irrigation Plan",
+        "pestControl": "Pest Control"
+    },
+    "community": {
+        "title": "Farmer Community",
+        "newPost": "Share with Community",
+        "placeholder": "Share a farming tip, question or experience...",
+        "post": "Post",
+        "like": "Like",
+        "comment": "Comment",
+        "filterCrop": "Filter by Crop",
+        "allCrops": "All Crops",
+        "addImage": "Add Image",
+        "comments": "Comments",
+        "addComment": "Add a comment..."
+    },
+    "voice": {
+        "title": "Voice Assistant",
+        "tap": "Tap mic to speak",
+        "listening": "Listening...",
+        "processing": "Processing...",
+        "speak": "Speak your question"
+    },
+    "common": {
+        "loading": "Loading...",
+        "error": "Error occurred",
+        "retry": "Retry",
+        "back": "Back",
+        "save": "Save",
+        "cancel": "Cancel",
+        "submit": "Submit",
+        "close": "Close",
+        "or": "OR"
+    },
+    "alerts": {
+        "rain": "Heavy rain expected tomorrow. Avoid pesticide spraying.",
+        "pest": "Pest outbreak reported in your area. Take preventive measures.",
+        "price": "Wheat prices up 15% today! Good time to sell.",
+        "scheme": "New PM-KISAN installment released. Check your account."
+    },
+    "soil": {
+        "clay": "Clay",
+        "sandy": "Sandy",
+        "loamy": "Loamy",
+        "black": "Black (Cotton)",
+        "red": "Red",
+        "alluvial": "Alluvial"
+    },
+    "season": {
+        "kharif": "Kharif (June-Oct)",
+        "rabi": "Rabi (Nov-Mar)",
+        "zaid": "Zaid (Mar-Jun)"
+    }
+}
